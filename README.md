@@ -4,7 +4,7 @@
 
 ## About me
 
-I’m a high school developer interested in cybersecurity, systems engineering, and machine learning. I enjoy building tools, experimenting with network infrastructure, and developing software in Python, C++, and Java.
+I’m a high school developer interested in cybersecurity, systems engineering, graphics programming, and machine learning. I enjoy building tools, experimenting with network infrastructure, and developing software in Python, C++, Lua, Java.
 
 ## Get in touch :coffee:
 
