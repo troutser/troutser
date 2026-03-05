@@ -1,8 +1,16 @@
 # Hello, world!
-Some projects, mostly on roblox. 
 
-## add me on roblox
-https://www.roblox.com/users/1496686563/profile
+<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="468" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+
+## About me
+
+I’m a high school developer interested in cybersecurity, systems engineering, and machine learning. I enjoy building tools, experimenting with network infrastructure, and developing software in Python, C++, and Java.
+
+## Get in touch :coffee:
+
+- [RBLX Portfolio](https://troutser.carrd.co/)
+- [LinkedIn](https://www.linkedin.com/in/jeremy-huynh-a2b714342/)
+
 <!--
 **troutser/troutser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
